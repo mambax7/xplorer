@@ -1,0 +1,6 @@
+XPLORER (by pemen)
+
+Version 0.1
+- Initial release. 
+  This is the initial port of QuiXplorer 2.3 (http://quixplorer.sourceforge.net)
+

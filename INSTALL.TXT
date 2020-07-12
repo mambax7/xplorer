@@ -1,0 +1,14 @@
+Module Name      : XPLORER
+Version Number   : 0.1 Beta
+Module developer : pemen
+
+Install Instructions
+1. Upload the xplorer directory to XOOPS_ROOT_URL/modules/
+
+2. Log in to your site as administrator.
+
+3. Install the module using the XOOPS module administration panel at 'System Admin -> Modules'.
+
+4. Configure the root directory  in the admin preferences of the module.
+   By default the root directory for xplorer is the XOOPS ROOT PATH so
+   BE CAREFULL !
